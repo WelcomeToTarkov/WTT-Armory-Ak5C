@@ -6,7 +6,6 @@ import { ITraderAssort } from "@spt/models/eft/common/tables/ITrader";
 export class CustomAssortSchemeService 
 {
     private Instance: WTTInstanceManager;
-    private assortSchemes: any;
 
     public preSptLoad(Instance: WTTInstanceManager): void 
     {
