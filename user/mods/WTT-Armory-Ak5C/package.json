@@ -1,7 +1,7 @@
 {
     "name": "WTTArmoryAk5C",
     "author": "Tron and MoxoPixel",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "NCSA",
     "main": "src/mod.js",
     "sptVersion": "~3.9",
